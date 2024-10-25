@@ -1,0 +1,39 @@
+#root {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.title {
+    margin: 0;
+    font-size: calc(25px + (48 - 25) * ((100vw - 320px) / (1600 - 320)));
+    font-weight: 500;
+    line-height: 100%;
+    color: #fff;
+
+    @media(min-width:1600px) {
+        font-size: 48px;
+    }
+}
+
+.text {
+    margin: 0;
+    font-weight: 300;
+    line-height: 18px;
+    color: #fff;
+}
+
+.btn {
+    padding: 5px 35px;
+    border-radius: 30px;
+    background-color: #faff00;
+    font-weight: 300;
+    line-height: 18px;
+    color: #000;
+}
+
+.img {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}

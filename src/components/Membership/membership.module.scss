@@ -1,0 +1,16 @@
+.hero {
+    padding-bottom: 10%;
+}
+
+.container {}
+
+.title {
+    margin-bottom: 6%;
+    text-align: center;
+}
+
+.list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
+    gap: 60px;
+}

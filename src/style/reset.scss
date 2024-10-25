@@ -1,0 +1,45 @@
+/*===NULL CSS===========================================*/
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.page,
+.page__body {
+    width: 100%;
+    height: 100%;
+}
+
+.page__body {
+    margin: 0;
+    background-color: #000;
+}
+
+/*===/NULL CSS===========================================*/
+
+.list-reset {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.link-reset {
+    text-decoration: none;
+}
+
+.button-reset {
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.main {
+    min-height: 100%;
+}

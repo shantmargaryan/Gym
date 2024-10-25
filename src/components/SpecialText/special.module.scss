@@ -1,0 +1,20 @@
+.content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+    text-align: start;
+
+    &:not(:last-child) {
+        margin-bottom: 15px;
+    }
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+.text {
+    opacity: .6;
+}

@@ -1,0 +1,33 @@
+.item {
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    background-color: #222222
+}
+
+.link {}
+
+.img {
+    margin-bottom: 20px;
+    border-radius: 27px;
+}
+
+.name {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.icon {
+    width: 40px;
+    height: 40px;
+}

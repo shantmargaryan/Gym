@@ -1,0 +1,18 @@
+.hero {
+    padding-bottom: 12%;
+}
+
+.title {
+    margin-bottom: 6%;
+}
+
+.list {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 80px;
+
+    @media(min-width:768px){
+        grid-template-columns: 1fr 1fr;
+        justify-content: space-between;
+    }
+}

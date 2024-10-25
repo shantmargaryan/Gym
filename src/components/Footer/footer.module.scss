@@ -1,0 +1,59 @@
+.footer {
+    padding: 30px 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.content {
+    max-width: 270px;
+}
+
+.logo {}
+
+.text {
+    margin-top: 30px;
+}
+
+.address {
+    max-width: 170px;
+}
+
+.title {
+    font-size: 18px;
+}
+
+.contactBox {
+    margin-block: 20px;
+}
+
+.contactItem {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.link {
+    color: #fff;
+}
+
+.icon {
+    align-self: end;
+    width: 20px;
+    height: 20px;
+}
+
+.socials {
+    display: flex;
+    gap: 20px;
+}
+
+.socialIcon {
+    width: 40px;
+    height: 40px;
+}

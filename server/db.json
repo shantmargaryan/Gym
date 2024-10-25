@@ -1,0 +1,133 @@
+{
+    "joinitems": [
+        {
+            "id": "1",
+            "svgUrl": "svg/sprite.svg#15000Sq.m.",
+            "title": "15000 sq.m.",
+            "text": "No queues at the simulators. Premium equipment from LifeStyle, Hammer Strength, TechnoGym."
+        },
+        {
+            "id": "2",
+            "svgUrl": "svg/sprite.svg#equipment",
+            "title": "More than 200 equipment",
+            "text": "No queues at the simulators. Premium equipment from LifeStyle, Hammer Strength, TechnoGym."
+        },
+        {
+            "id": "3",
+            "svgUrl": "svg/sprite.svg#fitnessZones",
+            "title": "4 fitness zones",
+            "text": "From cardio to functional and cycle. Separate area for boxing and mixed martial arts"
+        },
+        {
+            "id": "4",
+            "svgUrl": "svg/sprite.svg#timer",
+            "title": "Round-the-clock operation",
+            "text": "The gym is open 24 hours a day, also works on all holidays and weekends"
+        }
+    ],
+    "membershipItem": [
+        {
+            "id": "1",
+            "title": "Pass Trial",
+            "price": 0,
+            "specialText": [
+                "Access to the gym from 8:00 to 14:00",
+                "The trainer on duty will introduce you to the gym"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Pass Easy Start",
+            "price": 119,
+            "specialText": [
+                "Visit without restrictions 24/7",
+                "Individual training program",
+                "Access to the VTRAINER application",
+                "Trainer support"
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Pass Free Time",
+            "price": 49,
+            "specialText": [
+                "The entrance time to the gym is from 14:00 to 16:00",
+                "Without suspension of gym membership",
+                "The trainer on duty will introduce you to the gym"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Pass 1 Month 24/",
+            "price": 85,
+            "specialText": [
+                "Visit without restrictions 24/7",
+                "The trainer on duty will introduce you to the gym"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "Pass In Shape (AM)",
+            "price": 165,
+            "specialText": [
+                "Training in mini-groups until 14:00",
+                "Without suspension of gym membership",
+                "Classes with a trainer in a mini-group 3 times a week",
+                "Trainer support"
+            ]
+        },
+        {
+            "id": "6",
+            "title": "Pass In Shape (PM)",
+            "price": 195,
+            "specialText": [
+                "Training in mini-groups until 17:00",
+                "Without suspension of gym membership",
+                "Classes with a trainer in a mini-group 3 times a week",
+                "Trainer support"
+            ]
+        }
+    ],
+    "trainersItem": [
+        {
+            "id": "1",
+            "imgUrl": "img/VictoriaShurpik.jpeg",
+            "name": "Victoria Shurpik"
+        },
+        {
+            "id": "2",
+            "imgUrl": "img/ElizabethLavrinenko.jpeg",
+            "name": "Elizabeth Lavrinenko"
+        },
+        {
+            "id": "3",
+            "imgUrl": "img/IvanGladkikh.jpeg",
+            "name": "Ivan Gladkikh"
+        },
+        {
+            "id": "4",
+            "imgUrl": "img/LyudmilaSabilo.jpeg",
+            "name": "Lyudmila Sabilo"
+        },
+        {
+            "id": "5",
+            "imgUrl": "img/EvgenyGurkov.jpeg",
+            "name": "Evgeny Gurkov"
+        },
+        {
+            "id": "6",
+            "imgUrl": "img/AnatolyPrytytsky.jpeg",
+            "name": "Anatoly Prytytsky"
+        },
+        {
+            "id": "7",
+            "imgUrl": "img/VictorLudkovich.jpeg",
+            "name": "Victor Ludkovich"
+        },
+        {
+            "id": "8",
+            "imgUrl": "img/MariaMasyak.jpeg",
+            "name": "Maria Masyak"
+        }
+    ]
+}
