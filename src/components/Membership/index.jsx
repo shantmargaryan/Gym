@@ -11,7 +11,7 @@ function Membership() {
   const [data, setData] = useState([])
 
   useEffect(() => {
-    axios.get("http://localhost:3000/membershipItem").then(res => setData(res.data))
+    axios.get("https://gym-backend-ten.vercel.app/membershipItem").then(res => setData(res.data))
   },[])
 
   return (

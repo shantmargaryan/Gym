@@ -7,7 +7,7 @@ function Join() {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        axios.get("http://localhost:3000/joinitems").then(res => setData(res.data))
+        axios.get("https://gym-backend-ten.vercel.app/joinitems").then(res => setData(res.data))
     }, [])
 
     return (
